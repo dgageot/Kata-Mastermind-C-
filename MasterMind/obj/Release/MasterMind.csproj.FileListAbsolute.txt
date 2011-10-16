@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrateur\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Documents and Settings\Administrateur\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Documents and Settings\Administrateur\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrateur\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Documents and Settings\Administrateur\Local Settings\Application Data\Temporary Projects\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+C:\Documents and Settings\Administrateur\Mes documents\Visual Studio 2008\Projects\MasterMind\MasterMind\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrateur\Mes documents\Visual Studio 2008\Projects\MasterMind\MasterMind\bin\Release\MasterMind.exe
+C:\Documents and Settings\Administrateur\Mes documents\Visual Studio 2008\Projects\MasterMind\MasterMind\bin\Release\MasterMind.pdb
+C:\Documents and Settings\Administrateur\Mes documents\Visual Studio 2008\Projects\MasterMind\MasterMind\obj\Release\MasterMind.exe
+C:\Documents and Settings\Administrateur\Mes documents\Visual Studio 2008\Projects\MasterMind\MasterMind\obj\Release\MasterMind.pdb
